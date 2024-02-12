@@ -24,6 +24,7 @@ This is a Vue.js project for [provide a brief description of your project].
 
 ## Install dependencies:
     npm install -g @vue/cli
+    npm install axios
 
 
 ## Run the development server:
